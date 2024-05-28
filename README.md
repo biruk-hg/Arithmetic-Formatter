@@ -1,1 +1,2 @@
 # Arithmetic-Formatter
+The goal of the **arithmetic_arranger** function is to take a list of simple arithmetic problems (in string format) and neatly arrange them into a formatted output. It ensures the problems are correctly aligned in columns, making them easy to read, and optionally includes the solutions if specified. The function also validates the input to ensure it meets specific criteria: a maximum of five problems, numbers containing only digits, use of either addition or subtraction operators, and numbers not exceeding four digits in length.
